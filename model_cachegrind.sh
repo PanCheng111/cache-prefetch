@@ -1,0 +1,1 @@
+cp cachegrind.txt $4
